@@ -1,0 +1,15 @@
+Janice 					60
+Joel 					75
+Margaret				95
+Monica					80
+Sally					40
+Noel					95
+Angela					50
+Nisha					70
+Kevin					75
+Philbert				95
+Deloris					95
+Jason					80
+Natasha					75
+Nirvan					95
+END
