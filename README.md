@@ -1,3 +1,3 @@
 # Comp-1602
 
-A collection assignments and labs that were done in my first year second semester course
+A collection assignments and labs that were done in a first year second semester c++ course
