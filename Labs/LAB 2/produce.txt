@@ -1,0 +1,11 @@
+101		apple 			2.50		550
+202		orange 			2.00		400
+345		banana			4.25		50
+4125		watermelon		49.25		2
+556		pineapple		7.00		75
+6100		potato			2.10		155
+7241		tomato			5.30		50
+845		pepper			2.5		100
+976		garlic			1.10		100
+1002		onion			0.75		150
+0
